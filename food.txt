@@ -2,3 +2,5 @@ Welcome to the food resturant
 
 kheer
 pastha
+
+chicken fry
